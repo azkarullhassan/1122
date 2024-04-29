@@ -53,7 +53,7 @@ const Three = () => {
         News
           </button>
           <h1 className='font-bold text-[24px] pt-4'>Advice from successful entrepreneurs</h1>
-          <p className='pt-2 font-medium text-[16px]'>Omnis rem maiores autem voluptas voluptate. Voluptatibus ex quia rem quaerat
+          <p className='pt-2 font-medium text-[16px]'>Omnis rem maiores autem voluptas vol ex quia rem quaerat
 qui eius animi dignis
                    </p>
               

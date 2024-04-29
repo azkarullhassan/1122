@@ -128,7 +128,7 @@ const Four = () => {
         Entrepreneurship
           </button>
           <h1 className='font-bold text-[20px] pt-4 '>Startups to watch out for in 2022</h1>
-          <p className='pt-6'>Id rerum doloremque aut voluptatem blanditiis <br />
+          <p className='pt-6'>Id rerum doloremque  blanditiis <br />
            nesciunt in et et. Corporis a harum dolor ut est
            adipisc</p>
           <div className="  pt-7 flex gap-2 "> 
