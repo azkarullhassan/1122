@@ -1,34 +1,5 @@
 
-  // import React from 'react'
   
-  // const Navbar = () => {
-  //   return (
-  //     <section>
-  //     <nav className='flex flex-row justify-between items-center '>
-  //       <div>
-  //           <img className='p-5' src="/src/assets/logo.png" alt="" />
-  //       </div>
-  //       <div className="flex flex-col md:flex-row md:space-x-4 md:gap-8 pr-5">
-  //         <a href="/" className="text-black font-medium text-[16px] ">Entrepreneurship</a>
-  //         <a href="/" className="text-black font-medium text-[16px] ">Investments</a>
-  //         <a href="/" className="text-black font-medium text-[16px] ">News</a>
-  //         <a href="/" className="text-black font-medium text-[16px] ">Startups</a>
-  //         <a href="/" className="text-black font-medium text-[16px] ">Stock Market</a>
-
-  //       </div>
-        
-  //     </nav>
-  //     <div className=' h-0.5  bg-gray-200'></div>
-  //     </section>
-      
-  //   )
-  // }
-  
-  // export default Navbar
-  
-
-
-
  import React, { useState } from 'react'
 import { IoMenu } from "react-icons/io5";
 
