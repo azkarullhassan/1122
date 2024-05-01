@@ -17,8 +17,8 @@ const One = () => {
           <button className='border-[1px] md:px-8 px-3 py-3 bg-[#0067B9] rounded-[8px] text-[16px] text-white font-bold'>
           Investments
           </button>
-          <h3 className='font-bold text-[26px] pt-4'>Socially responsible businesses to support</h3>
-          <p className='font-normal text-[16px] pt-4'>Voluptas voluptatem voluptate qui asperiores cum. Incidunt voluptatibus
+          <h3 className='font-bold text-[26px] pt-4'>Socially skjh responsible businesses to support</h3>
+          <p className='font-normal text-[16px] pt-4'>Voluptas volnnuptatem voluptate qui asperiores cum. Incidunt voluptatibus
            voluptatum consequuntur maiores occaeca</p>
            <div className=" pt-4 flex gap-2 ">
            <h1 className='font-bold text-[26px] ' >Read more</h1>
