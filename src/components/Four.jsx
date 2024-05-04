@@ -35,8 +35,8 @@ const Four = () => {
         <button className='border-[1px] mt-4 md:px-8 px-2 py-1 bg-[#370085] rounded-[8px] text-[16px] text-white font-bold'>
        News
           </button>
-          <h1 className='font-bold text-[20px] pt-4 '>Young entrneurs making their mark</h1>
-          <p className='pt-6'>Sed qui suscipit debitis et moleias. Fugiat quidemvel re <br /> repellat est et qui. Es</p>
+          <h1 className='font-bold text-[20px] pt-4 '>Young enthreurs making their mark</h1>
+          <p className='pt-6'>Sed qui suscipit debitis et moleias. Fujhat quidemvel re <br /> repellat estj jket qui. Es</p>
           <div className="  pt-4 flex gap-2 "> 
             <h2 className='font-bold text-[20px]'>Read more</h2>
           <FaAngleRight className="mt-2.5" />
