@@ -67,9 +67,9 @@ const Four = () => {
         Entrepreneurship
           </button>
           <h1 className='font-bold text-[20px] pt-4'>How to get ahead in business</h1>
-          <p className='pt-2'>Ad cupiditate excepturi dolores quam et <br /> et sed
-               um minima. Et vitae voluptates <br /> quaerat eum esse
-                 possimus repudiandae ut. Im</p>
+          <p className='pt-2'>Ad cupiditate excepturi dolvvres quam et <br /> et sed
+               um minima. Et asd volughtes <br /> quaerat eum esse
+                 possius repudiandae ut. Im</p>
           <div className="  pt-6 flex gap-2 "> 
             <h2 className='font-bold text-[20px]'>Read more</h2>
           <FaAngleRight className="mt-2.5" />
