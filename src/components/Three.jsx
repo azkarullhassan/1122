@@ -13,8 +13,8 @@ const Three = () => {
         Stock market
           </button>
           <h1 className='font-bold text-[24px] pt-4'>Ethical issues in business today</h1>
-          <p className='pt-2 font-medium text-[16px]'>Deserunt tempora explicabo sunt qui enim repellat. Ut mollitia consequatur nam
-                   quia illo vonuptate auvtem et facilis. Ni </p>
+          <p className='pt-2 font-medium text-[16px]'>Deserunt tempora explabxo ssunt quia enaim reapellat. Ut mollitia consequatur nam
+                   quia illo vonuptate fauvtemx et facilisz. Ni </p>
               
           <div className="  pt-6 flex gap-2 "> 
             <h2 className='font-bold text-[20px]'>Read more</h2>
