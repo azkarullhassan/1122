@@ -12,9 +12,9 @@ const Three = () => {
         <button className='border-[1px] mt-4 md:px-8 px-2 py-1 bg-[#008F62] rounded-[8px] text-[16px] text-white font-bold'>
         Stock market
           </button>
-          <h1 className='font-bold text-[24px] pt-4'>Ethical issues in business today</h1>
-          <p className='pt-2 font-medium text-[16px]'>Deserunt tempora explabxo ssunt quia enaim reapellat. Ut mollitia consequatur nam
-                   quia illo vonuptate fauvtemx et facilisz. Ni </p>
+          <h1 className='font-bold text-[24px] pt-4'>Ethical issues in busxzness today</h1>
+          <p className='pt-2 font-medium text-[16px]'>Deserunt tempora explabxo ss dst quia enaim reazxpellat. Ut msllitia consequatur nam
+                   quia illo vonuhtate fauvtemx et facilisz. Ni </p>
               
           <div className="  pt-6 flex gap-2 "> 
             <h2 className='font-bold text-[20px]'>Read more</h2>
