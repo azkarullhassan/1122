@@ -18,7 +18,7 @@ const One = () => {
           Investments
           </button>
           <h3 className='font-bold text-[26px] pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, officiis inventore.</h3>
-          <p className='font-normal text-[16px] pt-4'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, atque.
+          <p className='font-normal text-[16px] pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, saepe!
            voluazxtum czxnsequuntur maiorz
            s occaeca</p>
            <div className=" pt-4 flex gap-2 ">
